@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## Visualization of Demographic Data for 20 Most Populous U.S. Cities
 
-You can use the [editor on GitHub](https://github.com/tferguson14/tferguson14.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The main objective of this project is to use data visualizations to compare different demographic and community data for the 20 most populous U.S. cities. The data was obtained from the American Community Survey (ACS) and FBI crime data. The is be broken into a general demographic overview, a detailed crime breakdown, and a detailed income breakdown. These visualizations allow users to filter and select data to gain key insights into each city in the analysis.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Tableau Dashboard Preview
+
+Below is a preview of the tablea dashboard. The files and related files can be found in the gitub repository.
+[](/Users/Desktop/taishaferguson/Desktop/tab1.png/)
+
 
 ### Markdown
 
