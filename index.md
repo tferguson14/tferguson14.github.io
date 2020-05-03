@@ -5,7 +5,7 @@ The main objective of this project is to use data visualizations to compare diff
 ### Tableau Dashboard Preview
 
 Below is a preview of the tablea dashboard. The files and related files can be found in the gitub repository.
-[](https://github.com/tferguson14/tferguson14.github.io/blob/master/tab1.png)
+![Image](https://github.com/tferguson14/tferguson14.github.io/blob/master/tab1.png)
 
 
 ### Markdown
